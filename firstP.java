@@ -1,3 +1,4 @@
+// saradaga friday
 public class firstP{
     public static void main(String args[]) {
    int student1_Marks = 89;
